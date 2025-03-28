@@ -12,14 +12,10 @@
 
 ## 🎯 Características Principales
 
+🔥4000+ turnos, 800 clientes activos mensuales🤝
+
 ✅ Gestión de turnos en línea
 ✅ Creación de servicios y horarios disponibles
 ✅ Administración de clientes y historial de turnos
-✅ Notificaciones automáticas por email o WhatsApp
+✅ Notificaciones automáticas por email
 ✅ Interfaz intuitiva y responsiva
-
-## 📸 Capturas de Pantalla
-
-![Pantalla Principal](assets/home.png)
-![Gestión de Turnos](assets/turnos.png)
-![Panel de Administración](assets/admin.png)
